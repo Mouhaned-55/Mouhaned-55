@@ -28,14 +28,14 @@ Despite my young age, I've been in the mobile development game for 3 years, work
 ## 🌐 Open Source Advocate
 I believe in giving back to the developer community. You can find some of my open-source contributions right here on GitHub.
 
+## 🏢 Proudly Working at Softylines
+I'm currently working as a mobile developer at Softylines, a leading software company known for delivering innovative solutions and cutting-edge technology.
+
 ## 📚 Check Out My Work
 Explore some of my projects below to see what I've been up to:
 
 - Takiacademy mobile app : https://play.google.com/store/search?q=takiacademy&c=apps&hl=en&gl=US
 - Taki-kids mobile app : https://play.google.com/store/apps/details?id=com.takiacademy.takiacademykids&hl=en&gl=US
-
-## 🏢 Proudly Working at Softylines
-I'm currently working as a mobile developer at Softylines, a leading software company known for delivering innovative solutions and cutting-edge technology.
 
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out:
