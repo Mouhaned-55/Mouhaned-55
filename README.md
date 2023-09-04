@@ -1,37 +1,51 @@
-# Hey there, I'm Mouhaned Akermi 👋
+# Hi, I'm Mouhaned Akermi 👋
 
-Welcome to my GitHub profile! I'm a passionate mobile developer specializing in Kotlin, Flutter, and Kotlin Multiplatform Mobile (KMM), and I'm on a mission to create beautiful and functional mobile apps. With 3 years of hands-on experience, I bring a fresh perspective and a wealth of knowledge to the table, all while being just 22 years old.
+Welcome to my GitHub profile! I'm a passionate mobile developer, and at the age of 22, I have 3 years of experience, specializing in several technologies and platforms, including:
 
-🚀 Here's what you should know about me:
+[![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)](link-to-your-Kotlin-repo)
+[![KMM](https://img.shields.io/badge/KMM-Developer-green)](link-to-your-KMM-repo)
+[![Flutter](https://img.shields.io/badge/Flutter-Enthusiast-blue)](link-to-your-Flutter-repo)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-User-yellow)](link-to-your-Jetpack-Compose-repo)
+[![Swift](https://img.shields.io/badge/Swift-Enthusiast-lightgrey)](link-to-your-Swift-repo)
+[![SQL](https://img.shields.io/badge/SQL-Expert-darkblue)](link-to-your-SQL-repo)
+[![SQLite](https://img.shields.io/badge/SQLite-User-lightgreen)](link-to-your-SQLite-repo)
+[![RoomDB](https://img.shields.io/badge/RoomDB-Developer-yellowgreen)](link-to-your-RoomDB-repo)
+[![GitLab](https://img.shields.io/badge/GitLab-User-orange)](link-to-your-GitLab-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-User-blue)](link-to-your-GitHub-profile)
+[![Git](https://img.shields.io/badge/Git-Expert-red)](link-to-your-Git-repo)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Contributor-orange)](link-to-your-Stack-Overflow-profile)
+[![Blogger](https://img.shields.io/badge/Blogger-Writer-red)](link-to-your-Blogger-profile)
 
-## 📱 Mobile App Magician
-I breathe life into ideas by transforming them into stunning mobile apps. My toolset includes : 
-- Kotlin for Android.
-- Flutter for cross-platform magic.
-- Kotlin Multiplatform Mobile (KMM) for efficient cross-platform apps.
-- A touch of pure magic.
+## 🚀 What You Should Know About Me
 
-## 💡 Innovative Problem Solver
-I love tackling challenges head-on and finding creative solutions to problems. Debugging is like a puzzle to me, and I won't rest until I've cracked it.
+- Mobile App Developer 📱
+  - Kotlin for Android
+  - Flutter for cross-platform
+  - Kotlin Multiplatform Mobile (KMM) for efficiency
 
-## 🎓 Experienced Beyond My Years
-Despite my young age, I've been in the mobile development game for 3 years, working on a wide range of projects that have honed my skills and given me insights that are well beyond my years.
+- Innovative Problem Solver 💡
+  - Debugging enthusiast
 
-## 🏢 Proudly Working at Softylines
-I'm currently working as a mobile developer at Softylines, a leading software company known for delivering innovative solutions and cutting-edge technology.
+- Experienced Beyond My Years 🎓
+  - Despite being just 22 years old, I have 3 years in mobile development
+
+- Currently at Softylines 🏢
+  - Mobile developer at Softylines
 
 ## 📚 Check Out My Work
-Explore some of my projects below to see what I've been up to:
 
-- Takiacademy mobile app : https://play.google.com/store/search?q=takiacademy&c=apps&hl=en&gl=US
-- Taki-kids mobile app : https://play.google.com/store/apps/details?id=com.takiacademy.takiacademykids&hl=en&gl=US
+Explore some of my projects:
+
+- [Takiacademy Mobile App](https://play.google.com/store/search?q=takiacademy&c=apps&hl=en&gl=US)
+- [Taki-kids Mobile App](https://play.google.com/store/apps/details?id=com.takiacademy.takiacademykids&hl=en&gl=US)
 
 ## 🌟 Let's Connect!
+
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out:
 
 - 📧 Email: MouhanedAkermi383@gmail.com
-- 💬 LinkedIn: (https://www.linkedin.com/in/mouhaned-akermi-567a8a232/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mouhaned-akermi-567a8a232/)
 
-Thanks for visiting my GitHub profile! Let's continue to push the boundaries of mobile development with Kotlin, Flutter, and Kotlin Multiplatform Mobile (KMM) and create apps that leave a lasting impact. 🚀✨
+Thanks for visiting my GitHub profile! Let's push the boundaries of mobile development with Kotlin, Flutter, KMM, and more to create impactful apps. 🚀✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouhaned-55&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mouhaned-55&show_icons=true&theme=radical)
