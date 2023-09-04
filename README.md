@@ -5,12 +5,11 @@ Welcome to my GitHub profile! I'm a passionate mobile developer specializing in 
 🚀 Here's what you should know about me:
 
 ## 📱 Mobile App Magician
-I breathe life into ideas by transforming them into stunning mobile apps. My toolset includes  Kotlin, Flutter, KMM and a touch of pure magic.
-
-## 💻 Tech Stack
+I breathe life into ideas by transforming them into stunning mobile apps. My toolset includes : 
 - Kotlin for Android.
 - Flutter for cross-platform magic.
-- Kotlin Multiplatform Mobile (KMM) for efficient cross-platform apps..
+- Kotlin Multiplatform Mobile (KMM) for efficient cross-platform apps.
+- A touch of pure magic.
 
 ## 💡 Innovative Problem Solver
 I love tackling challenges head-on and finding creative solutions to problems. Debugging is like a puzzle to me, and I won't rest until I've cracked it.
@@ -34,3 +33,5 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 - 💬 LinkedIn: (https://www.linkedin.com/in/mouhaned-akermi-567a8a232/)
 
 Thanks for visiting my GitHub profile! Let's continue to push the boundaries of mobile development with Kotlin, Flutter, and Kotlin Multiplatform Mobile (KMM) and create apps that leave a lasting impact. 🚀✨
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouhaned-55&show_icons=true&theme=radical)
