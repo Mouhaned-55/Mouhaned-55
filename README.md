@@ -35,4 +35,3 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 Thanks for visiting my GitHub profile! Let's continue to push the boundaries of mobile development with Kotlin, Flutter, and Kotlin Multiplatform Mobile (KMM) and create apps that leave a lasting impact. 🚀✨
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouhaned-55&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouhaned-55"/>.
