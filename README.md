@@ -19,18 +19,18 @@ Welcome to my GitHub profile! I'm a passionate mobile developer, and at the age 
 ## 🚀 What You Should Know About Me
 
 - Mobile App Developer 📱
-  - Kotlin for Android
-  - Flutter for cross-platform
-  - Kotlin Multiplatform Mobile (KMM) for efficiency
+  - Kotlin for Android .
+  - Flutter for cross-platform .
+  - Kotlin Multiplatform Mobile (KMM) for efficiency .
 
 - Innovative Problem Solver 💡
-  - Debugging enthusiast
+  - Debugging enthusiast .
 
 - Experienced Beyond My Years 🎓
-  - Despite being just 22 years old, I have 3 years in mobile development
+  - Despite being just 22 years old, I have 3 years in mobile development .
 
 - Currently at Softylines 🏢
-  - Mobile developer at Softylines
+  - Mobile developer at Softylines .
 
 ## 📚 Check Out My Work
 
