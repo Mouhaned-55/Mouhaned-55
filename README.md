@@ -1,6 +1,6 @@
 # Hi, I'm Mouhaned Akermi 👋
 
-Welcome to my GitHub profile! I'm a passionate mobile developer, and at the age of 22, I have 3 years of experience, specializing in several technologies and platforms, including:
+Welcome to my GitHub profile! I'm a passionate mobile developer, I have +5 years of experience, specializing in several technologies and platforms, including:
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)](link-to-your-Kotlin-repo)
 [![KMM](https://img.shields.io/badge/KMM-Developer-green)](link-to-your-KMM-repo)
